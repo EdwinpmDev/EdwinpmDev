@@ -1,29 +1,54 @@
-<h1 align="center"><b>Hi , I'm EdwinpmDev </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***about me*** 
+<h1 align="center"><b>Hi , I'm EdwinpmDev </b><img src="https://media2.giphy.com/media/jrNuIYEC34KML9MQe1/giphy.gif" width="35"></h1>
 
-I am a System engineer student that is looking for some new projects to enhace his curriculums
+---
+
+<div align="left">
+<h2>🪐 about me</h2>
+</div>
+
+```python
+class Myself():
+  def __init__(self):
+
+    self.name = "Edwin"
+    self.location = "México"
+    self.building = "Python projects"
+    self.core_language = "Python 3"
+    self.daily_os = "EndeavourOS"
+
+  def info(self):
+    return "Python is the future, and I´m with it."
+
+me = Myself()
+print(me.info())
+```
+
+I am a Systems engineering student that is looking for some new projects to enhance my portfolio
 - 🌱 I’m currently learning ...
-  - Python
-  - C++
+  - Rust
 - I'm looking for some interesting ideas to practice
-- ✔ Currently working in a little code<br>
+- 📫 Look for me, here: <a href="mailto:edwin.p.mayo@outlook.com">edwin.p.mayo@outlook.com</a>
 
-## Hobbies
-However, otherside I do stuff like,
-- 🎵 listening to music, and 👂 listening for some horror stories.
-- 📷 I like to take photos to capture the beauty of the people or landscape
-- 📫 Look for me, here: <a href="edwin.p.mayo@outlook.com">edwin.p.mayo@outlook.com</a>
+---
 
-## Actual Skills
+## 🎧 Hobbies & Interests
+In my free time, I enjoy:,<br>
+<kbd>🎸 Acoustic Guitar</kbd>&emsp;<kbd>📷 Manual Photography</kbd>&emsp;<kbd>🎧 Horror Stories & Music</kbd>&emsp;<kbd>🪴 Terrariumming</kbd>&emsp;<br>
+<kbd>🎮 Single-player games</kbd>&emsp;<kbd>👟 Walking</kbd>&emsp;<kbd>📖 Reading</kbd>&emsp;<kbd>🎥 Movies</kbd>
 
-<h4> Technologies I'm currently using </h4>
+---
+
+## ⚙️ Actual Skills
+
+<h4> Languages & Databases </h4>
 <span>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </span>
 
-<h4> IDE </h4>
+<h4> Tools & Environment </h4>
 <span>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </span>
